@@ -1,0 +1,23 @@
+[
+{"SportRaw": "australian football","Sport": "afl"},
+{"SportRaw": "badminton","Sport": "badminton"},
+{"SportRaw": "baseball","Sport": "baseball"},
+{"SportRaw": "basketball","Sport": "basketball"},
+{"SportRaw": "boxing","Sport": "boxing"},
+{"SportRaw": "cricket","Sport": "cricket"},
+{"SportRaw": "curling","Sport": "curling"},
+{"SportRaw": "darts","Sport": "darts"},
+{"SportRaw": "esport","Sport": "esport"},
+{"SportRaw": "american football","Sport": "football"},
+{"SportRaw": "golf","Sport": "golf"},
+{"SportRaw": "handball","Sport": "handball"},
+{"SportRaw": "hockey","Sport": "hockey"},
+{"SportRaw": "martial arts","Sport": "mma"},
+{"SportRaw": "mma","Sport": "mma"},
+{"SportRaw": "rugby","Sport": "rugby"},
+{"SportRaw": "snooker","Sport": "snooker"},
+{"SportRaw": "football","Sport": "soccer"},
+{"SportRaw": "soccer","Sport": "soccer"},
+{"SportRaw": "tennis","Sport": "tennis"},
+{"SportRaw": "volleyball","Sport": "volleyball"}
+]
