@@ -30,6 +30,8 @@
 {"Sport": "Basketball","LeagueRaw": "denmark denmark basketligaen","League": "Denmark Basketligaen","Priority": "3"},
 {"Sport": "Basketball","LeagueRaw": "el salvador el salvador mayor basketball league","League": "El Salvador LMB","Priority": "5"},
 {"Sport": "Basketball","LeagueRaw": "el salvador liga mayor de baloncesto","League": "El Salvador LMB","Priority": "5"},
+{"Sport": "Basketball","LeagueRaw": "europe eurocup women","League": "EuroCup W","Priority": "2"},
+{"Sport": "Basketball","LeagueRaw": "european fiba eurocup women","League": "EuroCup W","Priority": "2"},
 {"Sport": "Basketball","LeagueRaw": "europe euroleague qualification women","League": "EuroLeague W","Priority": "1"},
 {"Sport": "Basketball","LeagueRaw": "european euroleague women","League": "EuroLeague W","Priority": "1"},
 {"Sport": "Basketball","LeagueRaw": "europe enbl","League": "Europe ENBL","Priority": "4"},
