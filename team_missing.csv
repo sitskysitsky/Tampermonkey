@@ -1,4 +1,4 @@
-﻿Sport,League,TeamRaw
+Sport,League,TeamRaw
 "Soccer","International Other Competitions Soccer","Iran U23"
 "Soccer","International Other Competitions Soccer","North Korea U23"
 "Soccer","International Other Competitions Soccer","NTV Beleza (W)"
@@ -33,6 +33,8 @@
 "Soccer","Other Competitions Soccer","Hong Kong U23"
 "Tennis","WTA","Tatiana Prozorova"
 "Tennis","WTA","Alexandra Eala"
+"Soccer","International Other Competitions Soccer","Kyrgyzstan U23"
+"Soccer","International Other Competitions Soccer","Hong Kong U23"
 "Basketball","Israel Israel Premier League Cup","Hapoel HaEmek"
 "Basketball","Israel Israel Premier League Cup","Elitzur Kiryat Atta"
 "Basketball","Israeli League Cup","Hapoel Haemek"
@@ -69,8 +71,6 @@
 "Soccer","UEFA Ladies Europa Cup","SCU Torreense (W)"
 "Soccer","Israel Liga Alef","Ironi Beit Shemesh"
 "Soccer","Israel Liga Alef","AS Nordia Jerusalem"
-"Soccer","International Other Competitions Soccer","Kyrgyzstan U23"
-"Soccer","International Other Competitions Soccer","Hong Kong U23"
 "Soccer","United Kingdom English Ladies League Cup","Everton (W)"
 "Soccer","United Kingdom English Ladies League Cup","Birmingham (W)"
 "Baseball","MLB","Kansas City Royals"
