@@ -57,6 +57,8 @@
 {"Sport": "Basketball","LeagueRaw": "germany german basketball bundesliga","League": "Germany Bundesliga","Priority": "2"},
 {"Sport": "Basketball","LeagueRaw": "germany german 2. bundesliga pro a","League": "Germany Pro A","Priority": "2"},
 {"Sport": "Basketball","LeagueRaw": "germany pro a","League": "Germany Pro A","Priority": "2"},
+{"Sport": "Basketball","LeagueRaw": "hungary hungarian division a women","League": "Hungary NB I W","Priority": "1"},
+{"Sport": "Basketball","LeagueRaw": "hungary nemzeti bajnoksag i.a women","League": "Hungary NB I W","Priority": "1"},
 {"Sport": "Basketball","LeagueRaw": "israel israel premier league cup","League": "Israeli League Cup","Priority": "3"},
 {"Sport": "Basketball","LeagueRaw": "israel league cup","League": "Israeli League Cup","Priority": "3"},
 {"Sport": "Basketball","LeagueRaw": "israeli league cup","League": "Israeli League Cup","Priority": "3"},
