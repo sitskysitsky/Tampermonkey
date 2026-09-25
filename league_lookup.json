@@ -605,6 +605,8 @@
 {"Sport": "Soccer","LeagueRaw": "england england fa cup","League": "England FA Cup","Priority": "2"},
 {"Sport": "Soccer","LeagueRaw": "england fa cup qualification","League": "England FA Cup","Priority": "2"},
 {"Sport": "Soccer","LeagueRaw": "fa cup england","League": "England FA Cup","Priority": "2"},
+{"Sport": "Soccer","LeagueRaw": "england england fa trophy","League": "England FA Trophy","Priority": "4"},
+{"Sport": "Soccer","LeagueRaw": "england fa trophy","League": "England FA Trophy","Priority": "4"},
 {"Sport": "Soccer","LeagueRaw": "england england isthmian league","League": "England Isthmian Premier League","Priority": "5"},
 {"Sport": "Soccer","LeagueRaw": "england isthmian premier league","League": "England Isthmian Premier League","Priority": "5"},
 {"Sport": "Soccer","LeagueRaw": "england england league 1","League": "England League 1","Priority": "3"},
