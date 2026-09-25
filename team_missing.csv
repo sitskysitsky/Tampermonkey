@@ -1,4 +1,4 @@
-﻿Sport,League,TeamRaw
+Sport,League,TeamRaw
 "Soccer","International Other Competitions Soccer","Iran U23"
 "Soccer","International Other Competitions Soccer","North Korea U23"
 "Soccer","International Other Competitions Soccer","NTV Beleza (W)"
@@ -65,6 +65,8 @@
 "Tennis","WTA","Alina Korneeva"
 "Soccer","International Other Competitions Soccer","China (W)"
 "Soccer","International Other Competitions Soccer","Vietnam (W)"
+"Soccer","Other Competitions Soccer","South Korea (W)"
+"Soccer","Other Competitions Soccer","Uzbekistan (W)"
 "Soccer","UEFA U21 Euro","Latvia U21"
 "Soccer","UEFA U21 Euro","Germany U21"
 "Soccer","UEFA U21 Euro","Latvia"
@@ -108,8 +110,6 @@
 "Soccer","Oman Cup","Al-Nahda"
 "Soccer","UEFA Nations League B","Türkiye"
 "Soccer","UEFA Nations League A","Türkiye"
-"Soccer","Other Competitions Soccer","South Korea (W)"
-"Soccer","Other Competitions Soccer","Uzbekistan (W)"
 "Soccer","Brazil Serie B","Atletico GO"
 "Soccer","Egypt Second Division A","Haras El Hodood"
 "Soccer","Egypt Second Division A","Dayrout"
