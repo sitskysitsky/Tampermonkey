@@ -3,7 +3,6 @@
 {"SportRaw": "badminton","Sport": "Badminton"},
 {"SportRaw": "baseball","Sport": "Baseball"},
 {"SportRaw": "basketball","Sport": "Basketball"},
-{"SportRaw": "boxing","Sport": "Boxing"},
 {"SportRaw": "counter-strike","Sport": "Counter-Strike"},
 {"SportRaw": "cricket","Sport": "Cricket"},
 {"SportRaw": "curling","Sport": "Curling"},
@@ -13,6 +12,7 @@
 {"SportRaw": "golf","Sport": "Golf"},
 {"SportRaw": "handball","Sport": "Handball"},
 {"SportRaw": "hockey","Sport": "Hockey"},
+{"SportRaw": "lacrosse","Sport": "Lacrosse"},
 {"SportRaw": "league of legends","Sport": "League of Legends"},
 {"SportRaw": "martial arts","Sport": "MMA"},
 {"SportRaw": "mma","Sport": "MMA"},
@@ -22,5 +22,6 @@
 {"SportRaw": "football","Sport": "Soccer"},
 {"SportRaw": "soccer","Sport": "Soccer"},
 {"SportRaw": "tennis","Sport": "Tennis"},
+{"SportRaw": "valorant","Sport": "Valorant"},
 {"SportRaw": "volleyball","Sport": "Volleyball"}
 ]
