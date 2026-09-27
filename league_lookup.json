@@ -1520,6 +1520,7 @@
 {"Sport": "Tennis","LeagueRaw": "atp chengdu open r16","League": "ATP 250","Priority": "2"},
 {"Sport": "Tennis","LeagueRaw": "atp hangzhou","League": "ATP 250","Priority": "2"},
 {"Sport": "Tennis","LeagueRaw": "atp hangzhou 2026","League": "ATP 250","Priority": "2"},
+{"Sport": "Tennis","LeagueRaw": "atp hangzhou qf","League": "ATP 250","Priority": "2"},
 {"Sport": "Tennis","LeagueRaw": "atp hangzhou qualifiers","League": "ATP 250","Priority": "2"},
 {"Sport": "Tennis","LeagueRaw": "atp hangzhou r1","League": "ATP 250","Priority": "2"},
 {"Sport": "Tennis","LeagueRaw": "atp hangzhou r16","League": "ATP 250","Priority": "2"},
