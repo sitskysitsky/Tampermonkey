@@ -2666,3 +2666,4 @@
 "MMA","UFC","inside distance","12","sharpxch","1.4099288888888888"
 "MMA","UFC","inside distance","12","playnow","0.9099286111111111"
 "Baseball","MLB","ot","over 0.5","playnow","2.040811388888889"
+"Baseball","MLB","ot","under 0.5","playnow","2.040811111111111"
